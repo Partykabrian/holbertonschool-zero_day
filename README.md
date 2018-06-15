@@ -1,3 +1,2 @@
 # my_first_repository
-# holbertonschool-zero_da
-y
+# holbertonschool-zero_day
